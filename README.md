@@ -3,7 +3,9 @@ Created by: Adam Snyder & Kyle Questad College: Grand Canyon University Project 
 
 ***
 
-## Full PDF Here!: https://mygcuedu6961-my.sharepoint.com/:w:/g/personal/asnyder51_my_gcu_edu/IQA7Xf39tUhLQaR44CR_dySJAfTlrpuMd_dvXYbGXl56rtU?e=eeS2dO 
+## Full PDF Here: https://mygcuedu6961-my.sharepoint.com/:w:/g/personal/asnyder51_my_gcu_edu/IQA7Xf39tUhLQaR44CR_dySJAfTlrpuMd_dvXYbGXl56rtU?e=eeS2dO 
+
+## Also uploaded to this repo!
 
 ***
 
