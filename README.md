@@ -78,6 +78,4 @@ This lab provides hands‑on experience with **real‑world cybersecurity tools*
 - Custom rule creation and alert optimization  
 - Realistic attack simulation and forensic analysis  
 
-This project stands as a strong portfolio piece — showcasing technical depth, problem‑solving ability, and a comprehensive grasp of enterprise security architecture.
-
 ---
